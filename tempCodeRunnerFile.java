@@ -1,0 +1,13 @@
+public class MaxNumber {
+    public static void main(String[] args) {
+        int arr[] = a{10,25,7,89,2};
+
+        int max = arr[0];
+        for(int i=1; i < arr.length; i++ ){
+            if (arr[i] > max) {
+                max = arr [i];
+                
+            }
+        }
+    }
+}
